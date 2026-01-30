@@ -1,4 +1,4 @@
-# Dashboard Management System (Laravel + Vue)
+# Dashboard Management System (Laravel + Vue SPA)
 
 Sistem Dashboard Management yang dibangun dengan Laravel (sebagai API) dan Vue.js. Proyek ini memiliki alur keamanan ketat yang mencakup verifikasi email dan autentikasi dua faktor (OTP/Password).
 
